@@ -1,3 +1,3 @@
 ### QA Guru / Additional HW
-#### Rest-Assured + Allure logs
+#### REST-assured + Allure logs
 ___
